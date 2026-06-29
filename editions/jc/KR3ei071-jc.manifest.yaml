@@ -1,0 +1,204 @@
+canonical_identifier: bkk:krp/KR3ei071/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei071/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 廣嗣要語
+  identifiers:
+    krp: KR3ei071
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei071.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei071_000-jc.yaml, hash: 'sha256:d52cbb5d970ff44bf607338cbb47a5f1807060fedb863ee956bd5ff2a31ddbdb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei071_000-jc.markers.yaml, hash: 'sha256:03fda18ca01e56fae69bb10243ce0998c72536e0ab3eb4f8f539b66352d567a0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 293
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d3.h1s1
+    span:
+    - body
+    - 293
+    - 703
+  label: 調理精血論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d4.h1s1
+    span:
+    - body
+    - 703
+    - 1287
+  label: 直指真源論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d5.h1s1
+    span:
+    - body
+    - 1287
+    - 1569
+  label: 男女服藥論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d6.h1s1
+    span:
+    - body
+    - 1569
+    - 2061
+  label: 交會宜忌日
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d7.h1s1
+    span:
+    - body
+    - 2061
+    - 2375
+  label: 診婦人有妊歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d8.h1s1
+    span:
+    - body
+    - 2375
+    - 2457
+  label: 妊娠雜病併產生死二歌余不能盡錄也
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d9.h1s1
+    span:
+    - body
+    - 2457
+    - 2567
+  label: 調元
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d10.h1s1
+    span:
+    - body
+    - 2567
+    - 2711
+  label: 調經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d11.h1s1
+    span:
+    - body
+    - 2711
+    - 2851
+  label: 安胎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d12.h1s1
+    span:
+    - body
+    - 2851
+    - 2986
+  label: 便產
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d13.h1s1
+    span:
+    - body
+    - 2986
+    - 3058
+  label: 轉女為男法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d14.h1s1
+    span:
+    - body
+    - 3058
+    - 4667
+  label: 附方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d15.h1s1
+    span:
+    - body
+    - 4667
+    - 6098
+  label: 集驗方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d16.h1s1
+    span:
+    - body
+    - 6098
+    - 11503
+  label: 廣嗣附方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d17.h1s1
+    span:
+    - body
+    - 11503
+    - 14842
+  label: 附論一篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d17d2
+    span:
+    - body
+    - 11507
+    - 12683
+  label: 論童壯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei071_jc_000-d17d3
+    span:
+    - body
+    - 12683
+    - 14842
+  label: 論衰老
+  type: section
+  level: 2
+hash: sha256:ae4d95ab7967da253abe790e518e5c639aeab8ce6ad271b3389cacf1ccced5bf
