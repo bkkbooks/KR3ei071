@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei071/v1
 canonical_location: https://kanripo.org/bkk/KR3ei071/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 廣嗣要語
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei071_000.yaml, hash: 'sha256:d52cbb5d970ff44bf607338cbb47a5f1807060fedb863ee956bd5ff2a31ddbdb'}
+  - {seq: 0, filename: KR3ei071_000.yaml, hash: 'sha256:3d844790ce2345fac10563d10368d0cdbdf79c67fbc1b9ec71ca6b5b1a0823e7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei071_000.markers.yaml, hash: 'sha256:ed02684d8e42d2e13d3f72bc3805c66c8f05074483ffcb6ee6ee433ace06c46a'}
+  - {seq: 0, role: markers, filename: assets/KR3ei071_000.markers.yaml, hash: 'sha256:645db0459f47eeaf83ded5aac6792e4c31dbe289265b5d44465fbb6a20458848'}
 table_of_contents:
 - ref:
     seq: 0
@@ -201,4 +201,7 @@ table_of_contents:
   label: 論衰老
   type: section
   level: 2
-hash: sha256:96e370fe9b4580e84c12e45acbf61cd71d5c3ecdc0329a8b46458990660641b5
+hash: sha256:0b0ae06750715beba6c5b44771b61a6dc73c0e6aefe8978bdb5734da89697a42
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
